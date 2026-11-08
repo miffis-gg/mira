@@ -2,6 +2,8 @@
 
 Самостоятельный концептуальный лендинг. React + Vite + TypeScript + CSS Modules. Все данные вымышлены. Форма работает только в оперативной памяти страницы, без отправки, cookies или browser storage.
 
+Сайт: [miffis-gg.github.io/mira](https://miffis-gg.github.io/mira/). Исходники: [miffis-gg/mira](https://github.com/miffis-gg/mira).
+
 ## Запуск
 
 ```sh
@@ -30,8 +32,8 @@ Prata и Onest подключены локально из пакетов Fontsou
 
 ## GitHub Pages
 
-Публикация не выполнялась. Неизвестное имя репозитория: локальная сборка использует переносимый `base: './'`. Для ручной сборки путь задаётся переменной `VITE_BASE_PATH=/имя-репозитория/` в `vite.config.ts`.
+Репозиторий: `miffis-gg/mira`. GitHub Pages использует источник GitHub Actions. Workflow собирает проект с `VITE_BASE_PATH=/mira/`; локальная сборка использует переносимый `base: './'`. Для ручной сборки путь задаётся переменной `VITE_BASE_PATH` в `vite.config.ts`.
 
-Перед публикацией создайте отдельный репозиторий, загрузите исходники, включите Pages → Source → GitHub Actions. Запустите вручную workflow `Check and publish MIRA`: он выполнит typecheck, build и публикацию с именем репозитория в base. Для корневого `username.github.io` замените VITE_BASE_PATH в workflow на `/`. Автоматического deploy по push нет.
+Для повторной публикации загрузите изменения в `main`, откройте Actions → `Check and publish MIRA` → Run workflow. Он выполнит typecheck, build и публикацию с именем репозитория в base. Автоматического deploy по push нет. При переносе в корневой `username.github.io` замените VITE_BASE_PATH в workflow на `/`.
 
 Перед превращением концепта в настоящий коммерческий сайт нужны проверенные контакты, реальное расписание, условия сервиса и лицензированные материалы с согласиями. Реальную форму следует разрабатывать отдельно; текущая никогда не создаёт запись.
