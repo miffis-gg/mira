@@ -1,0 +1,145 @@
+[
+  {
+    "name": "hero",
+    "id": 11054049,
+    "author": "Christina Chekhomova",
+    "purpose": "Портрет с короткой стрижкой",
+    "source": "https://www.pexels.com/photo/11054049/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Портрет с короткой стрижкой"
+  },
+  {
+    "name": "ritual",
+    "id": 3992863,
+    "author": "cottonbro studio",
+    "purpose": "Консультация и работа с волосами",
+    "source": "https://www.pexels.com/photo/3992863/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Консультация и работа с волосами"
+  },
+  {
+    "name": "hair-long",
+    "id": 13357094,
+    "author": "Serch Arafat",
+    "purpose": "Длинные волосы в студийном свете",
+    "source": "https://www.pexels.com/photo/13357094/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Длинные волосы в студийном свете"
+  },
+  {
+    "name": "hair-color",
+    "id": 36288118,
+    "author": "El gringo photo",
+    "purpose": "Оттенок и форма длинных волос",
+    "source": "https://www.pexels.com/photo/36288118/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Оттенок и форма длинных волос"
+  },
+  {
+    "name": "nails",
+    "id": 3997391,
+    "author": "cottonbro studio",
+    "purpose": "Маникюр крупным планом",
+    "source": "https://www.pexels.com/photo/3997391/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Маникюр крупным планом"
+  },
+  {
+    "name": "hands",
+    "id": 3997379,
+    "author": "cottonbro studio",
+    "purpose": "Уход за руками",
+    "source": "https://www.pexels.com/photo/3997379/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Уход за руками"
+  },
+  {
+    "name": "brows",
+    "id": 9775109,
+    "author": "SHVETS production",
+    "purpose": "Укладка бровей щёточкой",
+    "source": "https://www.pexels.com/photo/9775109/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Укладка бровей щёточкой"
+  },
+  {
+    "name": "makeup",
+    "id": 36524051,
+    "author": "Inna Mykytas",
+    "purpose": "Вечерний макияж",
+    "source": "https://www.pexels.com/photo/36524051/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Вечерний макияж"
+  },
+  {
+    "name": "care",
+    "id": 3762879,
+    "author": "Polina Tankilevitch",
+    "purpose": "Косметический уход",
+    "source": "https://www.pexels.com/photo/3762879/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Косметический уход"
+  },
+  {
+    "name": "alice",
+    "id": 774909,
+    "author": "Andrea Piacquadio",
+    "purpose": "Иллюстративный портрет Алисы",
+    "source": "https://www.pexels.com/photo/774909/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Иллюстративный портрет Алисы"
+  },
+  {
+    "name": "maria",
+    "id": 415829,
+    "author": "Pixabay",
+    "purpose": "Иллюстративный портрет Марии",
+    "source": "https://www.pexels.com/photo/415829/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Иллюстративный портрет Марии"
+  },
+  {
+    "name": "sofia",
+    "id": 1239291,
+    "author": "Daniel Xavier",
+    "purpose": "Иллюстративный портрет Софии",
+    "source": "https://www.pexels.com/photo/1239291/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Иллюстративный портрет Софии"
+  },
+  {
+    "name": "elena",
+    "id": 733872,
+    "author": "Pixabay",
+    "purpose": "Иллюстративный портрет Елены",
+    "source": "https://www.pexels.com/photo/733872/",
+    "license": "https://www.pexels.com/license/",
+    "origin": "Лицензированная стоковая фотография; учебная иллюстрация, не работа MIRA и не реальный сотрудник",
+    "crop": "object-fit: cover; центр, hero: 50% 35%",
+    "alt": "Иллюстративный портрет Елены"
+  }
+]
